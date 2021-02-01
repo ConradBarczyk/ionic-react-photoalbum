@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-photoalbum",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
